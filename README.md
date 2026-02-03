@@ -10,3 +10,6 @@ The page includes:
 - Responsive design for desktop and mobile
 
 Created by Kennedy Kariuki | 2026
+
+Redeploy GitHub Pages
+
